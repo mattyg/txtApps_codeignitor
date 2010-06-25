@@ -5,6 +5,8 @@ This is a server application that can run a script and send its output via a SMS
 
 It uses twitter to read in SMS messages for free. Otherwise it would require a GSM/GPRS modem. The ability to use a GSM/GPRS modem as txt message input will be added in the future.
 
+It is licensed under the GNU GPL v3.
+
 Possible Uses
 ----
 
