@@ -53,14 +53,7 @@
 			
 			//interperet first word as commmand, run script with command as title
 			$sub = substr($input, $l);
-			if($l == 0)
-			{
-				$cmd = "./scripts/".$input.".* ";
-			}
-			else
-			{
 				$cmd = "./scripts/".substr($input,0,$l).".* ".$sub;
-			}
 			echo "s---> cmd: ".$cmd."\n";
 			$output = exec($cmd);
 			

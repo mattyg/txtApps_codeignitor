@@ -16,7 +16,7 @@
     along with txtApps.  If not, see <http://www.gnu.org/licenses/>.*/
 
 
-	import('config.php');
+	include('config.php');
 
 	//loop-de-loop the input reading
 	while(true)

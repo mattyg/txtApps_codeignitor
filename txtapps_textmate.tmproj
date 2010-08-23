@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>currentDocument</key>
-	<string>config.php</string>
+	<string>css/data.css</string>
 	<key>documents</key>
 	<array>
 		<dict>
@@ -21,58 +21,88 @@
 	<integer>200</integer>
 	<key>metaData</key>
 	<dict>
-		<key>config.php</key>
+		<key>css/data.css</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>0</integer>
+				<integer>16</integer>
 				<key>line</key>
-				<integer>17</integer>
+				<integer>39</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>0</integer>
+			<integer>34</integer>
 		</dict>
-		<key>txtappsmaster.php</key>
+		<key>css/template.css</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>0</integer>
+				<integer>1</integer>
 				<key>line</key>
-				<integer>17</integer>
+				<integer>112</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>0</integer>
+			<integer>140</integer>
 		</dict>
-		<key>txtappsslave.php</key>
+		<key>system/application/controllers/admin.php</key>
 		<dict>
 			<key>caret</key>
 			<dict>
 				<key>column</key>
-				<integer>61</integer>
+				<integer>87</integer>
 				<key>line</key>
-				<integer>5</integer>
+				<integer>19</integer>
 			</dict>
 			<key>firstVisibleColumn</key>
 			<integer>0</integer>
 			<key>firstVisibleLine</key>
-			<integer>20</integer>
+			<integer>79</integer>
+		</dict>
+		<key>system/application/views/adminapps.php</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>38</integer>
+				<key>line</key>
+				<integer>4</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>2</integer>
+		</dict>
+		<key>system/application/views/adminmain.php</key>
+		<dict>
+			<key>caret</key>
+			<dict>
+				<key>column</key>
+				<integer>38</integer>
+				<key>line</key>
+				<integer>3</integer>
+			</dict>
+			<key>firstVisibleColumn</key>
+			<integer>0</integer>
+			<key>firstVisibleLine</key>
+			<integer>0</integer>
 		</dict>
 	</dict>
 	<key>openDocuments</key>
 	<array>
-		<string>txtappsmaster.php</string>
-		<string>txtappsslave.php</string>
-		<string>config.php</string>
+		<string>system/application/controllers/admin.php</string>
+		<string>system/application/views/adminmain.php</string>
+		<string>system/application/views/adminapps.php</string>
+		<string>css/data.css</string>
+		<string>css/template.css</string>
 	</array>
 	<key>showFileHierarchyDrawer</key>
 	<true/>
 	<key>windowFrame</key>
-	<string>{{164, 56}, {661, 678}}</string>
+	<string>{{177, 82}, {813, 696}}</string>
 </dict>
 </plist>

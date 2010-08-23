@@ -17,13 +17,13 @@
 
 
 	//Your cell phone number
-	$cellnumber = '7818201450'; 
+	$cellnumber = '5555555555'; 
 	
 	//txt message email domain of phone's carrier
 	$carrier = 'vtext.com';
 	
 	//Your twitter feed url 
 	//(if feed is private, write 'http://USERNAME:PASSWORD@twitter.com/statuses/user_timeline/USERID.rss')
-	$twitterfeed_url = 'http://acatman:whistleblower@twitter.com/statuses/user_timeline/73225296.rss'; 
+	$twitterfeed_url = 'http://USERNAME:PASSWORD@twitter.com/statuses/user_timeline/ID.rss'; 
 	
 ?>

@@ -1,0 +1,152 @@
+table {
+	border-collapse:collapse;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+table,th, td {
+	border: 1px solid black;
+}
+
+#sectionbox {
+	margin-left: 200px;
+}
+
+#sectionbox #titlerow {
+	font-weight: bold;
+	text-align: center;
+}
+
+#sectionbox #row {
+}
+
+#sectionbox td {
+	padding: 6px;
+}
+#sectionbox td#command {
+	width:  160px;
+}
+#sectionbox form input {
+	float: left;
+}
+#sectionbox #edit form input {
+	border: none;
+	font-size: 10pt;
+	background-color: white;
+}
+#sectionbox #edit form input:hover {
+	text-decoration: underline;
+}
+
+/*PAGINATION LINKS*/
+#navlinks {
+	margin-left: 200px;
+	margin-top: 10px;
+}
+#navlinks strong {
+	border: solid black 1px;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	padding-left: 4px;
+	padding-right: 4px;
+	background-color:grey;
+	color:white;
+}
+#navlinks a {
+	border: solid black 1px;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	padding-left: 4px;
+	padding-right: 4px;
+	text-decoration: none;
+	color: black;
+	background-color: lightgrey;
+}
+#navlinks a:hover {
+	color:white;
+	background-color:grey;
+}
+/*the page admin/apps/main*/
+#addapp {
+	margin-left:200px;
+	margin-bottom: 30px;
+}
+#addapp a{
+	border: solid black 2px;
+	color: black;
+	text-decoration: none;
+	font-size: 15pt;
+	padding: 3px;
+}
+#addapp a:hover{
+	background-color:lightgrey;
+}
+/**/
+#sechead {
+	
+	font-size: 18pt;
+	text-decoration: underline;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+/* all admin pages have sidebar*/
+#categories #title {
+	width: 150px;
+	font-size: 14pt;
+	font-weight:bold;
+	padding: 2px;
+	border: solid black 2px;
+	position: relative;
+	top: -50px;
+	left: -22px;
+	background-color: grey;
+	color:white;
+	
+}
+#categories {
+	width: 130px;
+	border:solid black 2px;
+	padding-left: 20px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	position:fixed;
+		background:grey;
+}
+#categories a {
+	font-size: 15pt;
+	color: lightblue;
+	
+}
+#categories a:hover {
+	color: darkblue;
+}
+
+#sectiontitle {
+	margin-left: 190px;
+	font-size: 20pt;
+	border-bottom: solid black 2px;
+	margin-bottom: 10px;
+}
+
+#viewall {
+	
+	margin-left: 10px;
+}
+#viewall a {
+	text-decoration: none;
+	color: black;
+	font-size: 14pt;
+	border:solid black 2px;
+	padding: 4px;
+}
+#viewall a:hover {
+	background-color: lightgrey;
+}
+
+/*specific to my/main*/
+#loginbox {
+	margin-left: 200px;
+	padding: 10px;
+	background-color: lightgrey;
+	width: 220px;
+	margin-bottom: 20px;
+}
